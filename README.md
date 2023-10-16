@@ -1,4 +1,4 @@
-# chess_framework
+# simple chess_framework
 init piece and board for chess in cpp
 
 ```bash
