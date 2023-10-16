@@ -2,6 +2,6 @@
 init piece and board for chess in cpp
 
 ```bash
-g++ test.cpp -o test
+g++ test.cpp -std=c++17 -o test
 ./test
 ```
